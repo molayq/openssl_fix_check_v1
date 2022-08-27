@@ -1,0 +1,27 @@
+optest 2024-07-22 11:07:00->Time left from now: 704 days, 20:26:16.900108
+opacc 2024-07-22 11:07:00->Time left from now: 704 days, 20:26:16.818786
+opprod 2024-07-22 14:12:00->Time left from now: 704 days, 23:31:16.747413
+ALERT -rabo-rntest 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.669403
+rabo-rntest 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.669389
+ALERT -rabo-rnacc 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.591614
+rabo-rnacc 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.591600
+ALERT -rabo-rnprod 2022-08-24 12:00:00->Time left from now: 6 days, 21:19:16.513604
+rabo-rnprod 2022-08-24 12:00:00->Time left from now: 6 days, 21:19:16.513591
+ALERT -rabo-autest 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.441972
+rabo-autest 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.441958
+ALERT -rabo-auacc 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.367460
+rabo-auacc 2022-10-10 23:59:59->Time left from now: 54 days, 9:19:15.367446
+ALERT -rabo-auprod 2022-08-24 12:00:00->Time left from now: 6 days, 21:19:16.298344
+rabo-auprod 2022-08-24 12:00:00->Time left from now: 6 days, 21:19:16.298331
+nordeatest 2023-06-16 08:17:13->Time left from now: 302 days, 17:36:29.227056
+nordeaacc 2023-06-16 08:17:13->Time left from now: 302 days, 17:36:29.149205
+nordeaprod 2023-06-17 11:58:53->Time left from now: 303 days, 21:18:09.073330
+lbbwtest 2023-07-28 11:20:54->Time left from now: 344 days, 20:40:09.998770
+lbbwacc 2023-07-28 09:08:21->Time left from now: 344 days, 18:27:36.920525
+lbbwprod 2023-09-28 12:09:55->Time left from now: 406 days, 21:29:10.832357
+kbctest 2024-06-18 11:09:06->Time left from now: 670 days, 20:28:21.754183
+kbcacc 2024-06-18 11:09:06->Time left from now: 670 days, 20:28:21.679753
+kbcprod 2024-06-18 11:17:53->Time left from now: 670 days, 20:37:08.590883
+sebtest 2023-12-07 12:30:51->Time left from now: 476 days, 21:50:06.503098
+sebacc 2023-12-07 12:30:51->Time left from now: 476 days, 21:50:06.429499
+sebprod 2024-03-15 09:30:35->Time left from now: 575 days, 18:49:50.355128
